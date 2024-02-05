@@ -63,7 +63,7 @@ export function OrderDetails(){
                         <TableRow>
                             <TableCell>Pizza Pepperoni</TableCell>
                             <TableCell className="text-right">2</TableCell>
-                            <TableCell className="text-right">R$ 69,90</TableCell>
+                            <TableCell className="text-right">R$ 69,90</TableCell> 
                             <TableCell className="text-right">R$ 139,80</TableCell>
                         </TableRow>
 
